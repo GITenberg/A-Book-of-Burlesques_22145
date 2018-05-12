@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/578
     wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22145#A-Book-of-Burlesques
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2007-07-25'
 gutenberg_type: Text
